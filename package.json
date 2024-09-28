@@ -1,0 +1,15 @@
+{
+  "name": "modulize",
+  "version": "1.0.0",
+  "description": "A simple tool for loading and unloading modular code",
+  "main": "modulize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilicateWielder/modulize.git"
+  },
+  "author": "",
+  "license": "GPL-3.0"
+}
