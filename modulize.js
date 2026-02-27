@@ -1,7 +1,9 @@
+// THIS CODE IS OBSOLETE. 
 const fs = require("fs");
 
 class modulize {
     constructor (log_method = console.log) {
+        console.log('NOTICE: Modulize.js is obsolete. Please migrate to modulize.ts ASAP.');
 
         this.log = (text) => {
             log_method(text);
